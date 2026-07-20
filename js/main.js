@@ -232,4 +232,4 @@ if (scrollTopBtn) {
 const yearFooterContainer = document.getElementById('annee-en-cours');
 if (yearFooterContainer) {
     yearFooterContainer.innerText = new Date().getFullYear();
-}
+} 
